@@ -4,6 +4,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
 	<META HTTP-EQUIV="Expires" CONTENT="-0">
+        <img src="img/EMC Logo.jpg" alt="EMC Logo" />
         <title>QuickQuote</title>
         
         <link href="css/grid.css" rel="stylesheet" type="text/css" />
@@ -78,7 +79,6 @@
 							<li><a href="#">Sub-Item-1</a></li>
 							<li><a href="#">Sub-Item-2</a></li>
 							<li><a href="#">Sub-Item-3</a></li>
-							<li><a href="#">Sub-Item-4</a></li>
 						</ul>
 					</div>						
 				</li>

@@ -35,7 +35,7 @@
 			<p>
 				Logged in as Admin
 				<br />
-				You have <a href="javascript:;">5 messages</a>
+				You have <a href="javascript:;">15 messages</a>
 			</p>
 			
 			<img src="img/avatar.jpg" alt="avatar" />

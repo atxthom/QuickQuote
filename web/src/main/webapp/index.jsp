@@ -27,7 +27,7 @@
 	<div id="header">
 		<!--<h1><a href="#">Quick Quote 2</a></h1>-->
 		<h1>
-		<!--  <img src="img/EMC Logo.jpg" alt="EMC Logo" /> -->
+		<img src="img/EMC Logo.jpg" alt="EMC Logo" />
 		<%=appName%>
 		</h1>
 		<div id="info">
@@ -83,6 +83,7 @@
 							<li><a href="#">Sub-Item-2</a></li>
 							<li><a href="#">Sub-Item-3</a></li>
 							<li><a href="#">Sub-Item-4</a></li>
+							<li><a href="#">Sub-Item-5</a></li>
 						</ul>
 					</div>						
 				</li>

@@ -17,7 +17,7 @@
 		QuoteResource quote = new QuoteResource();
 	    String appName =  System.getenv("APP_NAME");
 	    if (appName == null) {
-	    	appName = "Open Insurance";
+	    	appName = "Partner Open Insurance";
 	    }
 	%>
 </head>
@@ -82,6 +82,7 @@
 							<li><a href="#">Sub-Item-1</a></li>
 							<li><a href="#">Sub-Item-2</a></li>
 							<li><a href="#">Sub-Item-3</a></li>
+							<li><a href="#">Sub-Item-4</a></li>
 						</ul>
 					</div>						
 				</li>
@@ -100,6 +101,7 @@
 					<div id="search-left">
 					<h3>Welcome to your Open Insurance Services.</h3>
 					</div>
+					
 					<div id="search-right">
 					<form class="form" method="post" action="">
 					<span style="font-weight:bold;font-size:small">

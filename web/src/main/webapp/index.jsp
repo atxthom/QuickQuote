@@ -17,7 +17,7 @@
 		QuoteResource quote = new QuoteResource();
 	    String appName =  System.getenv("APP_NAME");
 	    if (appName == null) {
-	    	appName = "Partner Open Insurance";
+	    	appName = "Open Insurance";
 	    }
 	%>
 </head>
@@ -35,7 +35,7 @@
 			<p>
 				Logged in as Admin
 				<br />
-				You have <a href="javascript:;">15 messages</a>
+				You have <a href="javascript:;">20 messages</a>
 			</p>
 			
 			<img src="img/avatar.jpg" alt="avatar" />
@@ -83,6 +83,7 @@
 							<li><a href="#">Sub-Item-2</a></li>
 							<li><a href="#">Sub-Item-3</a></li>
 							<li><a href="#">Sub-Item-4</a></li>
+							<li><a href="#">Sub-Item-5</a></li>
 						</ul>
 					</div>						
 				</li>

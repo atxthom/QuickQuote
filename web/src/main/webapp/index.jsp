@@ -27,7 +27,7 @@
 	<div id="header">
 		<!--<h1><a href="#">Quick Quote 2</a></h1>-->
 		<h1>
-		  <img src="img/EMC Logo.jpg" alt="EMC Logo" />
+		<!-- <img src="img/EMC Logo.jpg" alt="EMC Logo" />  -->  
 		<%=appName%>
 		</h1>
 		<div id="info">

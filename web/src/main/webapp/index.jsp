@@ -17,7 +17,7 @@
 		QuoteResource quote = new QuoteResource();
 	    String appName =  System.getenv("APP_NAME");
 	    if (appName == null) {
-	    	appName = "ServiceMesh Open Insurance";
+	    	appName = "Open Insurance";
 	    }
 	%>
 </head>
